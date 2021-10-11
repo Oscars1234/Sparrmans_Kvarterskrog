@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sparrmans_Kvarterskrog</string>
+    <string name="foratt1">Carpaccio</string>
+    <string name="foratt1_beskrivning">"Tunt skivad oxfile med riven parmesan "</string>
+    <string name="foratt2">Kantarelltoast</string>
+    <string name="foratt2_beskrivning">Smörstekta kantareller med grädde på bröd</string>
+    <string name="foratt3">Pilgrimsmusslor</string>
+    <string name="foratt3_beskrivning">Ljuvlig förrätt med stekta pilgrimsmusslor, jordärtskockskräm, gurksallad och knaprigt bacon</string>
+    <string name="huvudratt1">Boeuf bourguignon</string>
+    <string name="huvudratt1_beskrivning">Fransk rödvinsgryta med kött och potatis.</string>
+    <string name="huvudratt2">Carbonara</string>
+    <string name="huvudratt2_beskrivning">pasta med stekt bacon, parmesan och ägg.</string>
+    <string name="huvudratt3">pizza</string>
+    <string name="huvudratt3_beskrivning">tomatsås, ost, champinjoner.</string>
+
+    <string name="efteratt1">Glass</string>
+    <string name="efteratt1_beskrivning">Hemmagjord glass med smak av päron</string>
+    <string name="efteratt2">Blåbärspaj</string>
+    <string name="efteratt2_beskrivning">En blåbärssmulpaj med vaniljsås.</string>
+    <string name="efteratt3">Banansplitt</string>
+    <string name="efteratt3_beskrivning">Banan, chokladsås, </string>
+</resources>
